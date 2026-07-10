@@ -1,0 +1,25 @@
+## Summary
+
+This pull request contains my Week 3 Multi-Source Data Integration assignment.
+
+### Completed Tasks
+
+- Loaded and cleaned operational data
+- Integrated external weather data using the Open-Meteo API
+- Implemented API error handling with fallback
+- Created a SQLite database using SQLAlchemy
+- Queried data using SQL JOIN and GROUP BY
+- Merged all data sources into a master DataFrame
+- Performed correlation analysis
+- Added project documentation and presentation materials
+
+## Request for Review
+
+Please review the following:
+
+- API error handling
+- SQL JOIN logic
+- Clarity of the merged dataset
+- Overall code quality
+
+Thank you for your feeddaback
